@@ -18,6 +18,7 @@ You may know me from my work as maintainer of [trostcss](https://github.com/murs
 🔥 My mission is to build tools to automate my day to day process. I also want to grow things on the internet and let others learn from my mistakes instead of their own.
 
 My main projects:
+
 - 🖌️ [trostcss](https://github.com/murshidazher/trostcss)
 - 🧶 [react-play-styled](https://github.com/murshidazher/react-play-styled)
 - 🎭 [murshid](https://github.com/murshidazher/murshid)
@@ -30,7 +31,6 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 - [Using Current Date and Time In VS Code Snippets](https://murshidazher.com/using-current-date-and-time-in-vs-code-snippets/)
 
 [Read More](https://murshidazher.com/articles/)
-
 
 ## Tools
 
@@ -60,6 +60,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 </p>
 
 ## Trivia:
+
 - 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss)
 - 🌱 I’m currently learning: AWS, Microservices and Microfrontends
 - 💬 Ask me about microservices, microfrontends and cloud services
@@ -67,7 +68,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My favourite anime is "Naruto"
 
+<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 
-<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" width="100" title="Peace" />
 <br/><br/><br/><br/>
 **[Visit my website &rarr;](https://murshidazher.com/)**
