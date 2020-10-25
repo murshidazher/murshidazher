@@ -2,6 +2,8 @@
   <img src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/resume-banner-confetti.jpg" width="1280" title="Readme Banner">
 </p>
 
+#
+
 <p align="center">
   <a href="https://twitter.com/murshidazher">Twitter</a> •
   <a href="https://murshidazher.com/articles/">Blog</a> •
@@ -22,6 +24,33 @@ My main projects:
 
 You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazher/).
 
+## Tools
+
+<p align="left">
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/angular.svg" alt="angular-js" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/vue.svg" alt="vue" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gulp.svg" alt="gulp" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/typescript.svg" alt="typescript" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/csharp.svg" alt=".NET" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/mongo.svg" alt="mongodb" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/mysql.svg" alt="mysql" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="redis" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="nodejs" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="python" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="nginx" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="cucumber" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="heroku" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="travis" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="aws" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="gcp" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="Docker" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="Kubernetes" width="25" height="25" />
+</p>
+
 ## Recent Posts
 
 - [My Trip with Emojis](https://murshidazher.com/my-trip-with-emojis/)
@@ -37,4 +66,9 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My favourite anime is "Naruto"
 
+
+<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" width="100" title="Peace" />
+<div align="left">
+<br/><br/><br/><br/>
 **[Visit my website &rarr;](https://murshidazher.com/)**
+</div>
