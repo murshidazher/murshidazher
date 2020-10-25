@@ -1,16 +1,39 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Murshid Azher 👋</h1>
 
-<!--
-**murshidazher/murshidazher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/sponsors/murshidazher">💖 Support me at Github Sponsors</a> •
+  <a href="https://twitter.com/murshidazher">Twitter</a> •
+  <a href="https://murshidazher.com/articles/">Blog</a> •
+  <a href="https://dribbble.com/murshidazher">Dribbble</a> •
+  <br />
+</p>
 
-Here are some ideas to get you started:
+👋 I'm a Software Engineer based in Sri Lanka 🇱🇰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You may know me from my work as maintainer of [trostcss](https://github.com/murshidazher/trostcss) work. We could meet after work (not possible now due to covid) or we're just starting our friendship.
+
+🔥 My mission is to build tools to automate my day to day process. I also want to grow things on the internet and let others learn from my mistakes instead of their own.
+
+My main projects:
+- 🐿️ [trostcss](https://github.com/murshidazher/trostcss)
+- ⚡ [react-play-styled](https://github.com/murshidazher/react-play-styled)
+- 👁️ [murshid](https://github.com/murshidazher/murshid)
+
+You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazher/).
+
+## Recent Posts
+
+- [My Trip with Emojis](https://murshidazher.com/my-trip-with-emojis/)
+- [Using Current Date and Time In VS Code Snippets](https://murshidazher.com/using-current-date-and-time-in-vs-code-snippets/)
+
+[Read More](https://murshidazher.com/articles/)
+
+You can support my work at [Github sponsors](https://github.com/sponsors/murshidazher)
+
+## Trivia:
+- 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss)
+- 🌱 I’m currently learning: AWS, Microservices and Microfrontends
+- 💬 Ask me about microservices, microfrontends and cloud services
+- 📫 How to reach me: [Email](hello@murshidazher.com), [Twitter](https://twitter.com/murshidazher)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My favourite anime is "Naruto"
