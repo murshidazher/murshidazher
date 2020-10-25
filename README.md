@@ -1,4 +1,6 @@
-![Banner Murshid](https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-banner.jpg)
+<p align="center">
+  <img src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-banner.png" width="1280" title="Readme Banner">
+</p>
 
 <p align="center">
   <a href="https://twitter.com/murshidazher">Twitter</a> •
