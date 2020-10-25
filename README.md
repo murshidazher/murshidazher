@@ -24,6 +24,14 @@ My main projects:
 
 You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazher/).
 
+## Recent Posts
+
+- [My Trip with Emojis](https://murshidazher.com/my-trip-with-emojis/)
+- [Using Current Date and Time In VS Code Snippets](https://murshidazher.com/using-current-date-and-time-in-vs-code-snippets/)
+
+[Read More](https://murshidazher.com/articles/)
+
+
 ## Tools
 
 <p align="left">
@@ -51,13 +59,6 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
-## Recent Posts
-
-- [My Trip with Emojis](https://murshidazher.com/my-trip-with-emojis/)
-- [Using Current Date and Time In VS Code Snippets](https://murshidazher.com/using-current-date-and-time-in-vs-code-snippets/)
-
-[Read More](https://murshidazher.com/articles/)
-
 ## Trivia:
 - 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss)
 - 🌱 I’m currently learning: AWS, Microservices and Microfrontends
@@ -68,7 +69,5 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 
 
 <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" width="100" title="Peace" />
-<div align="left">
 <br/><br/><br/><br/>
 **[Visit my website &rarr;](https://murshidazher.com/)**
-</div>
