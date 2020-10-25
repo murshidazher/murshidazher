@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-banner.png" width="1280" title="Readme Banner">
+  <img src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/resume-banner-confetti.jpg" width="1280" title="Readme Banner">
 </p>
 
 <p align="center">
@@ -36,3 +36,5 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 - 📫 How to reach me: [Email](hello@murshidazher.com), [Twitter](https://twitter.com/murshidazher)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My favourite anime is "Naruto"
+
+**[Visit my website &rarr;](https://murshidazher.com/)**
