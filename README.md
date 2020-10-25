@@ -1,7 +1,5 @@
 ![Banner Murshid](https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-banner.jpg)
 
-<h1 align="center">Hi there, I'm Murshid Azher 👋</h1>
-
 <p align="center">
   <a href="https://twitter.com/murshidazher">Twitter</a> •
   <a href="https://murshidazher.com/articles/">Blog</a> •
