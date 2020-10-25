@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Murshid Azher 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/sponsors/murshidazher">💖 Support me at Github Sponsors</a> •
   <a href="https://twitter.com/murshidazher">Twitter</a> •
   <a href="https://murshidazher.com/articles/">Blog</a> •
   <a href="https://dribbble.com/murshidazher">Dribbble</a> •
@@ -27,8 +26,6 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 - [Using Current Date and Time In VS Code Snippets](https://murshidazher.com/using-current-date-and-time-in-vs-code-snippets/)
 
 [Read More](https://murshidazher.com/articles/)
-
-You can support my work at [Github sponsors](https://github.com/sponsors/murshidazher)
 
 ## Trivia:
 - 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss)
