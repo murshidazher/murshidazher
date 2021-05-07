@@ -15,7 +15,7 @@
 
 You may know me from my work as maintainer of [trostcss](https://github.com/murshidazher/trostcss). We could meet after work (not possible now due to covid 🦠) or we're just starting our friendship.
 
-🔥 My mission is to build tools to automate my day to day process. I also want to grow things on the internet and let others learn from my mistakes instead of their own.
+🔥 My objective is to create tools that will help me automate my day-to-day operations. I also want to see things flourish on the internet and for people to learn from my failures rather than their own.
 
 My main projects:
 
