@@ -55,6 +55,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gcp.svg" alt="gcp" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/azure.svg" alt="azure" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/terraform.svg" alt="Terraform" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jenkins.svg" alt="Jenkins" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-kubernetes.svg" alt="Kubernetes" width="25" height="25" />
 </p>
