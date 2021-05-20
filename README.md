@@ -60,7 +60,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-kubernetes.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
-## Trivia:
+## Trivia
 
 - 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss)
 - 🌱 I’m currently learning: AWS, Microservices and Microfrontends
