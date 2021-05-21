@@ -63,7 +63,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 ## Trivia
 
 - 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss)
-- 🌱 I’m currently learning: AWS, Microservices and Microfrontends
+- 🌱 I’m currently learning: Ballerina, Scala and Big data analytics
 - 💬 Ask me about microservices, microfrontends and cloud services
 - 📫 How to reach me: [Email](hello@murshidazher.com), [Twitter](https://twitter.com/murshidazher)
 - 😄 Pronouns: he/him
