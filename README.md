@@ -62,12 +62,12 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 
 ## Trivia
 
-- 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss)
-- 🌱 I’m currently learning: Ballerina, Scala and Big data analytics
-- 💬 Ask me about microservices, microfrontends and cloud services
-- 📫 How to reach me: [Email](hello@murshidazher.com), [Twitter](https://twitter.com/murshidazher)
+- 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss).
+- 🌱 I’m currently learning: Ballerina, Scala and Big data analytics.
+- 💬 Ask me about microservices, microfrontends and cloud services.
+- 📫 How to reach me: [email](hello@murshidazher.com), [twitter](https://twitter.com/murshidazher) or [linkedin](https://www.linkedin.com/in/murshidazher/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My favourite anime is "Naruto"
+- ⚡ Fun fact: My favorite anime is **Naruto**.
 
 <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 
