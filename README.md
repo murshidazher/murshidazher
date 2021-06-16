@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://twitter.com/murshidazher">Twitter</a> •
   <a href="https://murshidazher.com/articles/">Blog</a> •
-  <a href="https://dribbble.com/murshidazher">Dribbble</a> •
+  <a href="https://dribbble.com/murshidazher">Dribbble</a>
   <br />
 </p>
 
