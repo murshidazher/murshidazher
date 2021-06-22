@@ -13,7 +13,7 @@
 
 👋 I'm a Software Engineer based in Sri Lanka 🇱🇰
 
-You may know me from my work as a maintainer of [trostcss](https://github.com/murshidazher/trostcss). We could meet after **work** (not possible due to covid 🦠) or we're just starting our **friendship**.
+You may know me from my work as the maintainer of [trostcss](https://github.com/murshidazher/trostcss). We could meet after **work** (not possible due to covid 🦠) or we're just starting our **friendship**.
 
 🔥 My objective is to create tools that will help me automate my daily operations. I also want to see things flourish on the internet and for people to learn from my failures rather than their own.
 
@@ -22,6 +22,7 @@ My main projects:
 - 🖌️ [trostcss](https://github.com/murshidazher/trostcss)
 - 🧶 [react-play-styled](https://github.com/murshidazher/react-play-styled)
 - 🎭 [murshid](https://github.com/murshidazher/murshid)
+- ⚡ [voltage.js](https://github.com/murshidazher/voltage.js)
 
 You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazher/).
 
