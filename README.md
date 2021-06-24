@@ -40,6 +40,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/svelte.svg" alt="svelte" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/windicss.svg" alt="Windi CSS" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gulp.svg" alt="gulp" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" />
@@ -59,8 +60,6 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jenkins.svg" alt="Jenkins" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-kubernetes.svg" alt="Kubernetes" width="25" height="25" />
-</p>
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/hadoop.svg" alt="Hadoop" width="25" height="25" />
 </p>
 
 ## Trivia
