@@ -66,7 +66,7 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/murshidazhe
 
 - 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss).
 - 🌱 I’m currently learning: Ballerina, Spark and Big data analytics.
-- 💬 Ask me about microservices, microfrontends and cloud services.
+- 💬 Ask me about: Whatever you want to know :wink:
 - 📫 How to reach me: [email](hello@murshidazher.com), [twitter](https://twitter.com/murshidazher) or [linkedin](https://www.linkedin.com/in/murshidazher/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My favorite anime is **Naruto**.
