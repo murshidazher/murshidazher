@@ -13,9 +13,9 @@
 
 👋 I'm a Software Engineer based in Sri Lanka 🇱🇰
 
-You may know me from my work as the maintainer of [trostcss](https://github.com/murshidazher/trostcss). We could meet after **work** (not possible due to covid 🦠) or we're just starting our **friendship**.
+You may know me from my work as the maintainer of [trostcss](https://github.com/murshidazher/trostcss). I'm always down for a cold brew coffee ☕ and some small conversation with close friends or kind strangers.
 
-🔥 My objective is to create tools that will help me automate my daily operations. I also want to see things flourish on the internet and for people to learn from my failures rather than their own.
+🔥 My objective is to create tools that will help me automate my daily operations. If you've a suggestion on how to improve myself or the world, ping me 🤙.
 
 My main projects:
 
