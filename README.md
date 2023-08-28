@@ -7,4 +7,4 @@ For additional information → [view my CV](https://read.cv/murshidazher) .
 
 <br/><br/>
 **[Visit my website &rarr;](https://murshidazher.com/)**
-<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/logo.png" height="40" title="Murshid Azher Identity Logo" />
+<img style="position: absolute; bottom: -18px; right: 0px;" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/logo.png" height="40" title="Murshid Azher Identity Logo" />
